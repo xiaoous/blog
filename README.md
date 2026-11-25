@@ -7,6 +7,7 @@
 | 日期 | 标题 | 标签 | 原文 |
 | --- | --- | --- | --- |
 | 2025-11-23 | [STM32 红外遥控解码（NEC 协议）：接线、协议与 HAL 驱动](posts/2025-11-23-STM32-红外遥控NEC解码.md) | STM32 / 红外 / NEC | [CSDN](https://blog.csdn.net/2401_89363844/article/details/155163708) |
+| 2025-11-16 | [基于 STM32 的 AS5600 磁编码器学习笔记](posts/2025-11-16-STM32-AS5600磁编码器学习笔记.md) | STM32 / 磁编码器 / I2C | [CSDN](https://blog.csdn.net/2401_89363844/article/details/154917718) |
 
 ## 写作约定
 
